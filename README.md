@@ -1,8 +1,12 @@
-#MapboxDemo
+# MapboxDemo
+
+![app](images/app.png)
 
 ## API Key
 
 To use the demo, you need to insert your MapBox non-public API key in the **Info.plist** file.
+
+![infoplist](images/infoplist.png)
 
 ## License
 
